@@ -1,10 +1,16 @@
+
+
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+
 
 [![Github](https://img.shields.io/github/followers/WorkerHarder171?label=Follow&style=social)](https://github.com/WorkerHarder171)
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30>, I'm Dady Bima Nur Sejati</h1>
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BWorkerHarder171%7D/count.svg" alt="visitor badge"/></p>
 <h3 align="center">Frontend Developers</h3>
 <h4 align="center">Currently Learning about React JS</h4>
 </br>
+
 <img width="40%" align="right" alt="FunGif" src="https://cdn.discordapp.com/attachments/995337235211763722/1073844608217382953/ezgif.com-crop.gif" />
 
 - 💬 Ask me about: ReactJS, NodeJS, Javascript, MERN
@@ -12,6 +18,7 @@
 - 🌱 I’m currently learning MERN, Go, Laravel
 - 👯 I’m looking to collaborate on Projects
 - ⚡️ Fun fact: I'm also an Aviation Geek and love Anime
+
 
 ---
 
