@@ -64,7 +64,7 @@ Saya selalu terbuka untuk kolaborasi dan berdiskusi. Jika Anda memiliki ide atau
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WorkerHarder171&layout=compact&theme=gotham&hide=html&hide_border=true"/>
 </a>
     
-<a href="https://github.com/WorkerHarder171">
+<a href="https://github.com/WorkerHarder171" align="center">
 <img align="center" src="https://streak-stats.demolab.com/?user=WorkerHarder171&theme=transparent" />
 </a>
 <br><br>
