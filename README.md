@@ -68,8 +68,10 @@ Saya selalu terbuka untuk kolaborasi dan berdiskusi. Jika Anda memiliki ide atau
 <img align="center" src="https://streak-stats.demolab.com/?user=WorkerHarder171&theme=transparent" />
 </a>
 <br><br>
-</p>
 
+<img align="center" src="https://github.com/WorkerHarder171/WorkerHarder171/blob/main/Zee.jpg?user=WorkerHarder171&theme=transparent" />
+<br><br>
+</p>
 
 
 Terima kasih telah mengunjungi profil GitHub saya! 😊✨
