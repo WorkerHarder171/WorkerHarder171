@@ -63,11 +63,13 @@ Saya selalu terbuka untuk kolaborasi dan berdiskusi. Jika Anda memiliki ide atau
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WorkerHarder171&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WorkerHarder171&layout=compact&theme=gotham&hide=html&hide_border=true"/>
 </a>
-</p>
-
+    
 <a href="https://github.com/WorkerHarder171">
 <img align="center" src="https://streak-stats.demolab.com/?user=WorkerHarder171&theme=transparent" />
 </a>
 <br><br>
+</p>
+
+
 
 Terima kasih telah mengunjungi profil GitHub saya! 😊✨
