@@ -77,7 +77,7 @@ Saya selalu terbuka untuk kolaborasi dan berdiskusi. Jika Anda memiliki ide atau
 </a>
     
 <a href="https://github.com/WorkerHarder171" align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=WorkerHarder171&theme=transparent" />
+<!-- <img align="center" src="https://streak-stats.demolab.com/?user=WorkerHarder171&theme=transparent" /> -->
 </a>
 <br><br>
 
