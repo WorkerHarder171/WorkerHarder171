@@ -81,7 +81,7 @@ Saya selalu terbuka untuk kolaborasi dan berdiskusi. Jika Anda memiliki ide atau
 </a>
 <br><br>
 
-<img align="center" src="https://github.com/WorkerHarder171/WorkerHarder171/blob/main/garis%20solid%20tipis.png" />
+<img align="center" src="https://github.com/WorkerHarder171/WorkerHarder171/blob/main/alone.jpeg" />
 <br><br>
 </p>
 
